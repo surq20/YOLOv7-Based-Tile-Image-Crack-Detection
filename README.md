@@ -1,2 +1,1 @@
-# Crack-Detection-of-the-Tile-Image
-Based on YOLOv7.
+Modeling, training, evaluation, and construction of a user-friendly detection software interface for "YOLOv7-based tile image crack detection" according to the specifications and requirements of the software project development, with the specific tasks of creating data sets, building relevant CNN networks for training, performance evaluation using test sets, performance comparison of relevant network structure models, and prediction of images for practical applications. Based on this, we will summarize and refine the research and development contents and the related technologies used (or implemented).
